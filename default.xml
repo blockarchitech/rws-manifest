@@ -6,18 +6,18 @@
            remote="rebble"
            sync-j="4" />
   
-  <project name="rebble-auth-py" path="apps/auth" />
-  <project name="rebble-boot" path="apps/boot" />
-  <project name="rebble-cohorts" path="apps/cohorts" />
-  <project name="rebble-notif-app-icons" path="apps/notif-app-icons" />
-  <project name="rebble-lp" path="apps/lp" />
-  <project name="rebble-weather" path="apps/weather" />
-  <project name="rebble-appstore-api" path="apps/appstore-api" />
-  <project name="rebble-timeline-sync" path="apps/timeline-sync" />
-  <project name="rebble-treasure" path="apps/treasure" />
-  <project name="rebble-dev-fe" path="dev/infra/haproxy-fe" />
-  <project name="rebble-dev-compose" path="dev/rws-compose" />
-  <project name="rebble-dev-infra-oauth-redir" path="dev/infra/pebble-oauth-redir" />
-  <project name="rebble-prod-infra-gke" path="prod/infra/gke" />
+  <project name="pebble-dev/rebble-auth-py" path="apps/auth" />
+  <project name="pebble-dev/rebble-boot" path="apps/boot" />
+  <project name="pebble-dev/rebble-cohorts" path="apps/cohorts" />
+  <project name="pebble-dev/rebble-notif-app-icons" path="apps/notif-app-icons" />
+  <project name="pebble-dev/rebble-lp" path="apps/lp" />
+  <project name="pebble-dev/rebble-weather" path="apps/weather" />
+  <project name="pebble-dev/rebble-appstore-api" path="apps/appstore-api" />
+  <project name="pebble-dev/rebble-timeline-sync" path="apps/timeline-sync" />
+  <project name="pebble-dev/rebble-treasure" path="apps/treasure" />
+  <project name="pebble-dev/rebble-dev-fe" path="dev/infra/haproxy-fe" />
+  <project name="pebble-dev/rebble-dev-compose" path="dev/rws-compose" />
+  <project name="pebble-dev/rebble-dev-infra-oauth-redir" path="dev/infra/pebble-oauth-redir" />
+  <project name="pebble-dev/rebble-prod-infra-gke" path="prod/infra/gke" />
   
 </manifest>
